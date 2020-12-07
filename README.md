@@ -1,7 +1,5 @@
 # loops
 little on css and js
-<!DOCTYPE html>
-<html lang="en">
 
 <head>
     <meta charset="UTF-8">
